@@ -1,4 +1,4 @@
-stride: 52
+stride: 40
 first vertex: 0
 vertex count: 32
 topology: trianglelist
