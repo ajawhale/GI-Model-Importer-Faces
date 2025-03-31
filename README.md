@@ -4,3 +4,5 @@ fixface script here https://files.catbox.moe/25n8jk.py
 
 note: this repository is a work in progress,
 dm ajawhale on discord with any questions or face dump requests
+
+all dumps here are already prepped to be modded
