@@ -2,5 +2,5 @@ gi face modding tutorial here https://docs.google.com/document/d/1bn3zVRkom8ebuG
 
 fixface script here https://files.catbox.moe/25n8jk.py
 
-note: this repository is a work in progress
+note: this repository is a work in progress,
 dm ajawhale on discord with any questions or face dump requests
